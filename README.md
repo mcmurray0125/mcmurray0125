@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mcmurray0125@gmail.com**
 
-- 📄 Look at my Resume [https://docs.google.com/document/d/1laak7-aGKTgVdvgkclAjW3ZjTuKtKIrypT48-1sX71Q/edit](https://docs.google.com/document/d/1laak7-aGKTgVdvgkclAjW3ZjTuKtKIrypT48-1sX71Q/edit)
+- 📄 Look at my Resume [https://drive.google.com/file/d/1BEYVMQ4tqL_-JSdK7rLMY_X-AB4EdAnM/view?usp=drivesdk](https://drive.google.com/file/d/1BEYVMQ4tqL_-JSdK7rLMY_X-AB4EdAnM/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love playing guitar and was vegetarian for over 7 years**
 
