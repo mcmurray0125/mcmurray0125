@@ -7,10 +7,7 @@
 
 - 🔭 I’m currently working on a new app using ReactJS and Google Firebase
 
-- 🌱 I’m currently learning **Firebase integration for CRUD apps using APIs**
-
-
-- 🎨 I love pottery and have sold work around the country [https://michaelcmurray.wixsite.com/myartwork/ceramics)
+- 🎨 I love pottery and have sold work around the country https://michaelcmurray.wixsite.com/myartwork/ceramics
 
 - 📫 How to reach me **mcmurray0125@gmail.com**
 
