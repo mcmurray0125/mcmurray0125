@@ -5,7 +5,7 @@
 
 - 👨‍💻 My website https://michael-murray.netlify.app
 
-- 🔭 I’m currently working on a new app using ReactJS and Google Firebase
+- 🔭 I’m currently working on a full stack application with PostgreSQL, Express, React, and Node.
 
 - 🎨 I love pottery and have sold work around the country https://michaelcmurray.wixsite.com/myartwork/ceramics
 
