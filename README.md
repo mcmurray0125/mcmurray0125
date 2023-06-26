@@ -3,15 +3,15 @@
 <strong>Thanks for stopping by 😀 View my projects below!</strong>
 <p align="left"> <a href="https://www.linkedin.com/in/michaelchristophermurray/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michaelmurraylinkedin" /></a> </p>
 
-- 👨‍💻 My website https://michael-murray.netlify.app
+- 👨‍💻 My website https://michaelmurraydev.com
 
-- 🔭 I’m currently working on a full stack application with PostgreSQL, Express, React, and Node.
+- 🔭 I’m currently adding more features to my [BugHive](https://github.com/mcmurray0125/bughive) project and porting [PaddlePulse](https://github.com/mcmurray0125/paddle-pulse) to React Native.
 
 - 🎨 I love pottery and have sold work around the country https://michaelcmurray.wixsite.com/myartwork/ceramics
 
 - 📫 How to reach me **mcmurray0125@gmail.com**
 
-- 📄 Look at my Resume [https://docs.google.com/document/d/1laak7-aGKTgVdvgkclAjW3ZjTuKtKIrypT48-1sX71Q/edit?usp=sharing](https://docs.google.com/document/d/1laak7-aGKTgVdvgkclAjW3ZjTuKtKIrypT48-1sX71Q/edit?usp=sharing)
+- 📄 Look at my Resume [https://docs.google.com/document/d/1VAi3sOhciWHbMwPtNizf_p2_ek8gcsu_A8Bmix5yQWU/edit?usp=sharing](https://docs.google.com/document/d/1VAi3sOhciWHbMwPtNizf_p2_ek8gcsu_A8Bmix5yQWU/edit?usp=sharing)
 
 - ⚡ Fun fact **I love playing guitar and was vegetarian for over 7 years**
 
