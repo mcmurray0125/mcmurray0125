@@ -5,7 +5,7 @@
 
 - 👨‍💻 My website https://michaelmurraydev.com
 
-- 🔭 I’m currently adding more features to my [BugHive](https://github.com/mcmurray0125/bughive) project and porting [PaddlePulse](https://github.com/mcmurray0125/paddle-pulse) to React Native.
+- 🔭 I’m currently creating a social media app for the artistic community https://github.com/mcmurray0125/art-connect.
 
 - 🎨 I love pottery and have sold work around the country https://michaelcmurray.wixsite.com/myartwork/ceramics
 
